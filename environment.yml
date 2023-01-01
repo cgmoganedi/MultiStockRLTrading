@@ -336,4 +336,4 @@ dependencies:
     - widgetsnbextension==3.5.2
     - yfinance==0.1.70
     - zope-interface==5.4.0
-prefix: C:\Users\gogik\.conda\envs\multi_stock_rl_trading
+prefix: C:\Users\b4ssi\.conda\envs\multi_stock_rl_trading
